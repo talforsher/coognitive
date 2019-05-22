@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aafcafee.chunk.css",
+    "main.js": "/static/js/main.ebaddeb7.chunk.js",
+    "main.js.map": "/static/js/main.ebaddeb7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.7a92cfeb.chunk.js": "/static/js/2.7a92cfeb.chunk.js",
+    "static/js/2.7a92cfeb.chunk.js.map": "/static/js/2.7a92cfeb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a24a255b461f9128e7f22229c2afb032.js": "/precache-manifest.a24a255b461f9128e7f22229c2afb032.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.aafcafee.chunk.css.map": "/static/css/main.aafcafee.chunk.css.map"
+  }
+}
